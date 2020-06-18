@@ -5,7 +5,8 @@ It's written in Bash.
 
 # Setup
 
-1) unzip TerminalToDo.zip
+1) cd ~/
+2) unzip -j ~/Downloads/TerminalToDo.zip
 2) chmod +x tdt-install.sh
 2) chmod +x TerminalToDo.sh
 3) ./ttd-install.sh
