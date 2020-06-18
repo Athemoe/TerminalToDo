@@ -16,7 +16,7 @@ You can then use the following commands:
 * ttd list - show your to-do list
 * ttd clear - clear your entire list
 
-#Arch User Repository
+# Arch User Repository
 
 TerminalToDo will eventually be uploaded as a package on AUR.
 
