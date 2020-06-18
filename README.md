@@ -8,7 +8,7 @@ It's written in Bash.
 1) unzip TerminalToDo.zip
 2) chmod +x tdt-install.sh
 2) chmod +x TerminalToDo.sh
-3) ./tdt-install.sh
+3) ./ttd-install.sh
 
 You can then use the following commands:
 * ttd add - add a new item to the list
