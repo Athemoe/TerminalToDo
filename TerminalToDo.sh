@@ -30,7 +30,7 @@ elif [[ $1 == "check" ]]; then
         sed -i "${varinputcheck}d" $LIST 
         printf "\n\nTo-do List:\n"
         cat -n $LIST
-        printf "\n"
+        printf "\n\n"
     else
         printf "Your to-do list is already empty!"
     fi

@@ -83,7 +83,7 @@ if grep -F "alias ttd='~/TerminalToDo.sh'" ~/.bashrc
 then
 printf "Your alias has already been added.\n\n"
 else
-    echo "alias ttd='~/ToDoTerminal.sh'" >> ~/.bashrc
+    echo "alias ttd='~/TerminalToDo.sh'" >> ~/.bashrc
     printf "Alias has been added correctly\n\n"
 fi
 sleep 1
